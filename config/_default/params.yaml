@@ -86,7 +86,7 @@ features:
       category: ""
       category_id: ""
   search:
-    provider: algolia
+    provider: ""
     algolia:
       app_id: "PWK0SMKF1Y"
       api_key: "322bc8e32602c894197d8af218223972"
