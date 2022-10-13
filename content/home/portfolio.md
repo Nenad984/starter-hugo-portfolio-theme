@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: C#
+      tag: C#, Blazor, Asp Net 6
+    - name: React
+      tag: React
+    - name: Javascript, Html, Css
+      tag: Static
 
 design:
   columns: '1'
