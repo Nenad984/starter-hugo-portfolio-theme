@@ -86,11 +86,11 @@ features:
       category: ""
       category_id: ""
   search:
-    provider: "wowchemy"
+    provider: ""
     algolia:
-      app_id: ""
-      api_key: ""
-      index_name: ""
+      app_id: "PWK0SMKF1Y"
+      api_key: "322bc8e32602c894197d8af218223972"
+      index_name: "portfolio-nenad"
       show_logo: false
   map:
     provider: ""
